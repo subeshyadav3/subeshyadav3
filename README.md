@@ -1,5 +1,5 @@
 # Hi, I'm Subesh Yadav 👋
-🌱 I’m currently learning React, Node.js, Python, and everything in between 🤣  
+🌱 I’m currently learning React.js, Node.js, Python, and computer engineering in between 🤣  
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subeshyadav3)  
