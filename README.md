@@ -4,7 +4,8 @@ Sat Saheb!!, Hello! , Namaste To You All !!!<br>
 Portfolio(40% Completed) <a href='http://subesh420.com.np/'>Link</a>
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subeshyadav3)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/subeshyadav3)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/subesh.yadav.54772/)
+
 
 ## ✍️ Random Dev Quote
 _"The only way to do great work is to love what you do." — Steve Jobs_
