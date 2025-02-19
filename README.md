@@ -1,6 +1,6 @@
 # Hi, I'm Subesh Yadav 👋
 Sat Saheb!!, Hello! , Namaste To You All !!!<br>
-🌱 I’m currently learning React.js, Node.js, Python, and computer engineering in between 🤣  
+🌱 I’m currently learning Typescript, Data Science, and computer engineering in between 🤣  
 Portfolio(40% Completed) <a href='https://www.subeshyadav.com.np/'>Link</a>
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subeshyadav3)  
