@@ -1,7 +1,7 @@
 # Hi, I'm Subesh Yadav 👋  
 
 Sat Saheb!!, Hello! , Namaste To You All !!!<br>  
-🌱 I’m currently learning TypeScript, Data Science, and computer engineering in between 🤣  
+🌱 Currently learning AI, Data Science, and Development to build impactful solutions 🚀
 Portfolio (40% Completed) <a href='https://www.subeshyadav.com.np/'>Link</a>  
 
 ## Connect with me:  
