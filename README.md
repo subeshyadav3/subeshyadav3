@@ -27,6 +27,4 @@
 📧 **Email:** subeshgaming@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/subeshyadav3) | [Facebook](https://www.facebook.com/subesh.yadav.54772/) | [Kaggle](https://www.kaggle.com/subeshyadav)  
 
----
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=subeshyadav3&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
