@@ -18,11 +18,16 @@
 `C` `C++` `JavaScript` `TypeScript` `Python`  
 
 **Frontend & Backend:**  
-`HTML` `CSS` `React` `Redux` `Node.js` `MongoDB` `Next.js`
+`HTML` `CSS` `Tailwind CSS` `React` `Redux` `Node.js` `MongoDB` `Next.js`
 
 **Data Science & Machine Learning:**  
 `Pandas` `NumPy` `Matplotlib` `Scikit-Learn`  
 
+**Databases Used**  
+`MongoDB` `SQL` `PostgreSQL` 
+
+**Other Useful Technologies**  
+`Postman Api` `Streamlit` `Shadcn UI`
 ## 📩 Reach Me At  
 📧 **Email:** subeshgaming@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/subeshyadav3) | [Facebook](https://www.facebook.com/subesh.yadav.54772/) | [Kaggle](https://www.kaggle.com/subeshyadav)  
