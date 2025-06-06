@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me  
-- 💡 Passionate about AI, Data Science, and Development  
+- 💡 Passionate about AI, Data Science, and FullStack Development  
 - 🎯 Building impactful solutions through technology  
 - 🌱 Currently exploring AI, ML, and Full-Stack Development  
 
