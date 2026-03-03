@@ -20,7 +20,7 @@
 **Frontend & Backend:**  
 `HTML` `CSS` `Tailwind CSS` `React` `Redux` `Node.js` `MongoDB` `Next.js`
 
-**Data Science & Machine Learning:**  
+**Data Science & Machine Learning Basics:**  
 `Pandas` `NumPy` `Matplotlib` `Scikit-Learn`  
 
 **Databases Used**  
