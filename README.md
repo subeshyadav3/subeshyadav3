@@ -18,7 +18,7 @@
 `C` `C++` `JavaScript` `TypeScript` `Python`  
 
 **Frontend & Backend:**  
-`HTML` `CSS` `Tailwind CSS` `React` `Redux` `Node.js` `MongoDB` `Next.js`
+`HTML` `CSS` `Tailwind CSS` `React` `Redux` `Node.js` `MongoDB` `Next.js` `Django`
 
 **Data Science & Machine Learning Basics:**  
 `Pandas` `NumPy` `Matplotlib` `Scikit-Learn`  
